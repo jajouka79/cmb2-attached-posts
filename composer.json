@@ -1,0 +1,19 @@
+{
+    "name" : "jajouka79/cmb2-attached-posts",
+    "description" : "Forked.",
+    "type" : "library",
+    "authors" : [
+        {
+            "name" : "Simon Beasley",
+            "email" : "email@somewhere.com",
+            "role" : "Lead Developer"
+        }
+    ],
+	"repositories": [ 
+
+    ],
+    "require" : {
+			"composer/installers" : "~1.0.0",
+			"php" : ">=5.3",
+    },
+}
